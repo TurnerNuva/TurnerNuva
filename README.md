@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **TurnerNuva/TurnerNuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+As a current IT student at the University of Central Florida, I am looking to gain lifelong knowledge and experience in the IT field. I have a passion for learning new topics regarding technology, as well as expanding my skill set. Some areas that interest me within the IT field are information security, networking, system administration, the cloud, and computer hardware and infrastructure. 
