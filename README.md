@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello World 👋
 
 <!--
 **TurnerNuva/TurnerNuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Tech and science nerd. I have a passion for learning new topics regarding technology, as well as expanding my skill set. Some areas that interest me within the IT field are information security, networking, system administration, the cloud, and computer hardware and infrastructure. 
+Tech and science nerd. I have a passion for learning new topics regarding technology, as well as expanding my skill set. I currently work as a Systems Administrator on a team that manages and supports the systems and infrastructure that are critical to energy management and transmission. I also support variety of energy management applications and write code/scripts to automate certain processes and procedures.
